@@ -1,0 +1,56 @@
+body {
+	background: cyan;
+}
+h1{
+	text-align: center;
+	stroke: 200px white;
+	text-shadow: 0 0 0.1em blue;
+	font-family: 'Consolas', cursive, ;
+}
+#labels{
+	height: 140px;
+	width: 200px;
+	float: left;
+	text-shadow: 0 0 0.1em lightgray;
+	size: 400px;
+	justify-items: center;
+
+	
+
+}
+#botones{
+	height: 150px;
+	width: 180px;
+	float:  left ;
+	
+
+}
+input{
+	margin-bottom: 8px;
+}
+label{
+	line-height: 29px;
+}
+form{
+	height: 500px;
+	width: 500px;
+	margin: 0px auto;
+	position: relative;
+	top: 170px;
+}
+#enviar{
+	position: relative;
+	 
+	}
+body{
+	background: gray;
+	color: white;
+}
+table{
+	height: 120px;
+	width: 250px;
+	margin: 0px auto;
+	position: relative;
+	
+
+}
